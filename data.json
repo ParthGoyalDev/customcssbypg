@@ -1,0 +1,156 @@
+{
+  "bootstrap": {
+    "css": {
+      "url": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css",
+      "path": "./assets/css/bootstrap.min.css"
+    },
+    "js": {
+      "url": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js",
+      "path": "./assets/js/bootstrap.bundle.min.js"
+    }
+  },
+  "fontawesome": {
+    "css": [
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/css/all.css",
+        "path": "./assets/css/all.css"
+      },
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/css/sharp-duotone-solid.css",
+        "path": "./assets/css/sharp-duotone-solid.css"
+      },
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/css/sharp-thin.css",
+        "path": "./assets/css/sharp-thin.css"
+      },
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/css/sharp-solid.css",
+        "path": "./assets/css/sharp-solid.css"
+      },
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/css/sharp-regular.css",
+        "path": "./assets/css/sharp-regular.css"
+      },
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/css/sharp-light.css",
+        "path": "./assets/css/sharp-light.css"
+      }
+    ],
+    "webfonts": [
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/webfonts/fa-sharp-regular-400.ttf",
+        "path": "./assets/webfonts/fa-sharp-regular-400.ttf"
+      },
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/webfonts/fa-thin-100.woff2",
+        "path": "./assets/webfonts/fa-thin-100.woff2"
+      },
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/webfonts/fa-sharp-duotone-solid-900.woff2",
+        "path": "./assets/webfonts/fa-sharp-duotone-solid-900.woff2"
+      },
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/webfonts/fa-solid-900.ttf",
+        "path": "./assets/webfonts/fa-solid-900.ttf"
+      },
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/webfonts/fa-light-300.ttf",
+        "path": "./assets/webfonts/fa-light-300.ttf"
+      },
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/webfonts/fa-sharp-light-300.woff2",
+        "path": "./assets/webfonts/fa-sharp-light-300.woff2"
+      },
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/webfonts/fa-sharp-light-300.ttf",
+        "path": "./assets/webfonts/fa-sharp-light-300.ttf"
+      },
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/webfonts/fa-sharp-solid-900.ttf",
+        "path": "./assets/webfonts/fa-sharp-solid-900.ttf"
+      },
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/webfonts/fa-sharp-solid-900.woff2",
+        "path": "./assets/webfonts/fa-sharp-solid-900.woff2"
+      },
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/webfonts/fa-sharp-thin-100.ttf",
+        "path": "./assets/webfonts/fa-sharp-thin-100.ttf"
+      },
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/webfonts/fa-duotone-900.woff2",
+        "path": "./assets/webfonts/fa-duotone-900.woff2"
+      },
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/webfonts/fa-duotone-900.ttf",
+        "path": "./assets/webfonts/fa-duotone-900.ttf"
+      },
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/webfonts/fa-sharp-duotone-solid-900.ttf",
+        "path": "./assets/webfonts/fa-sharp-duotone-solid-900.ttf"
+      },
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/webfonts/fa-light-300.woff2",
+        "path": "./assets/webfonts/fa-light-300.woff2"
+      },
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/webfonts/fa-regular-400.ttf",
+        "path": "./assets/webfonts/fa-regular-400.ttf"
+      },
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/webfonts/fa-regular-400.woff2",
+        "path": "./assets/webfonts/fa-regular-400.woff2"
+      },
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/webfonts/fa-v4compatibility.woff2",
+        "path": "./assets/webfonts/fa-v4compatibility.woff2"
+      },
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/webfonts/fa-sharp-thin-100.woff2",
+        "path": "./assets/webfonts/fa-sharp-thin-100.woff2"
+      },
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/webfonts/fa-brands-400.woff2",
+        "path": "./assets/webfonts/fa-brands-400.woff2"
+      },
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/webfonts/fa-brands-400.ttf",
+        "path": "./assets/webfonts/fa-brands-400.ttf"
+      },
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/webfonts/fa-solid-900.woff2",
+        "path": "./assets/webfonts/fa-solid-900.woff2"
+      },
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/webfonts/fa-thin-100.ttf",
+        "path": "./assets/webfonts/fa-thin-100.ttf"
+      },
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/webfonts/fa-sharp-regular-400.woff2",
+        "path": "./assets/webfonts/fa-sharp-regular-400.woff2"
+      },
+      {
+        "url": "https://site-assets.fontawesome.com/releases/v6.6.0/webfonts/fa-v4compatibility.ttf",
+        "path": "./assets/webfonts/fa-v4compatibility.ttf"
+      }
+    ]
+  },
+  "jQuery": {
+    "js": {
+      "url": "https://code.jquery.com/jquery-3.7.1.slim.min.js",
+      "path": "./assets/js/jquery.js"
+    }
+  },
+  "AnimateCss": {
+    "css": {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css",
+      "path": "./assets/css/animate.min.css"
+    }
+  },
+  "CustomCssPro": {
+    "css": {
+      "url": "https://raw.githubusercontent.com/ParthGoyalDev/CustomFilesPG/main/custom.css",
+      "path": "./assets/css/custom.css"
+    }
+  }
+}
