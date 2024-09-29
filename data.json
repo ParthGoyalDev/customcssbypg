@@ -152,5 +152,59 @@
       "url": "https://raw.githubusercontent.com/ParthGoyalDev/CustomFilesPG/main/custom.css",
       "path": "./assets/css/custom.css"
     }
+  },
+  "DataTables JS" : {
+    "css" : [
+      {
+        "url" : "https://cdn.datatables.net/2.1.7/css/dataTables.bootstrap5.min.css",
+        "path" : "./assets/css/dataTables.bootstrap5.min.css"
+      },
+      {
+        "url" : "https://cdn.datatables.net/buttons/3.1.2/css/buttons.bootstrap5.min.css",
+        "path" : "./assets/css/buttons.bootstrap5.min.css"
+      }
+    ],
+     "js": [
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js",
+      "path": "./assets/js/jszip.min.js"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.7/pdfmake.min.js",
+      "path": "./assets/js/pdfmake.min.js"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.7/vfs_fonts.js",
+      "path": "./assets/js/vfs_fonts.js"
+    },
+    {
+      "url": "https://cdn.datatables.net/2.1.7/js/dataTables.min.js",
+      "path": "./assets/js/dataTables.min.js"
+    },
+    {
+      "url": "https://cdn.datatables.net/2.1.7/js/dataTables.bootstrap5.min.js",
+      "path": "./assets/js/dataTables.bootstrap5.min.js"
+    },
+    {
+      "url": "https://cdn.datatables.net/buttons/3.1.2/js/dataTables.buttons.min.js",
+      "path": "./assets/js/dataTables.buttons.min.js"
+    },
+    {
+      "url": "https://cdn.datatables.net/buttons/3.1.2/js/buttons.bootstrap5.min.js",
+      "path": "./assets/js/buttons.bootstrap5.min.js"
+    },
+    {
+      "url": "https://cdn.datatables.net/buttons/3.1.2/js/buttons.html5.min.js",
+      "path": "./assets/js/buttons.html5.min.js"
+    },
+    {
+      "url": "https://cdn.datatables.net/responsive/3.0.3/js/dataTables.responsive.min.js",
+      "path": "./assets/js/dataTables.responsive.min.js"
+    },
+    {
+      "url": "https://cdn.datatables.net/responsive/3.0.3/js/responsive.bootstrap5.js",
+      "path": "./assets/js/responsive.bootstrap5.js"
+    }
+  ]
   }
 }
