@@ -24,6 +24,11 @@ body {
     line-height: 1.6;
 }
 
+ul,
+p {
+    margin: 0;
+}
+
 /* Header/Nav */
 nav {
     background-color: var(--white);
